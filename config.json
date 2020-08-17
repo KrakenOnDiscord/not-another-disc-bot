@@ -1,0 +1,20 @@
+{
+    "bot": {
+        "token": "NzQwMTM4OTU3Mzc1MDEyODY0.XykqHg.IowhPcIYdwqh5tEjk0Hqah-pK7I",
+        "secret": "zbjmHmaDO6ObBdu5h2z5a2yy1xWrVESY",
+        "ownerId": "525172236353667112",
+        "activity": "Discord.io/tavexbots",
+        "id": "740138957375012864"
+    },
+    "api": {
+        "port": "3000",
+        "url": "https://flenite.tavexbots.xyz/api",
+        "stripeSecretKey": "sk_test_51H67YwHrXPXZgLLQZnQd8iFNMw5Osf6IRrhCYT2dCuP1rf7lafLYzMXsrlO7uWxw97YdQr5bHofy9MFnLYQCd8jq00gdqK8GTD"
+    },
+    "guild": {
+        "id": "599596068145201152",
+        "premiumRoleId": "598565371162656788"
+    },
+    "dashboardURL": "https://flenite.tavexbots.xyz",
+    "mongoURL": "mongodb://localhost/2PG"
+}
